@@ -15,17 +15,17 @@ body, html {
 
 }
 .background-image-1 {
-  background-image: url(2-bl.jpg);
+  background: url(2-bl.jpg);
   min-height: 100%;
 }
 
 .background-image-2 {
-  background-image: url(4-bl.jpg);
+  background: url(4-bl.jpg);
   min-height: 400px;
 }
 
 .background-image-3 {
-  background-image: url(6-bl.jpg);
+  background: url(6-bl.jpg);
   min-height: 400px;
 }
 
