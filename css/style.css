@@ -15,17 +15,17 @@ body, html {
 
 }
 .background-image-1 {
-  background: url("/assets/2-invert.jpg");
+  background-image: url("2-invert.jpg");
   min-height: 100%;
 }
 
 .background-image-2 {
-  background: url("/assets/4-invert.jpg");
+  background-image: url("4-invert.jpg");
   min-height: 400px;
 }
 
 .background-image-3 {
-  background: url("/assets/6-invert.jpg");
+  background-image: url("6-invert.jpg");
   min-height: 400px;
 }
 
