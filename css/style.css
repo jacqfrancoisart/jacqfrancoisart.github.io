@@ -15,17 +15,17 @@ body, html {
 
 }
 .background-image-1 {
-  background-image: url(https://s3.envato.com/files/210963555/12%20Carousel%203D%20HTML%20Content.png);
+  background-image: url(https://jacqfrancoisart.github.io/assets/2-bl.jpg);
   min-height: 100%;
 }
 
 .background-image-2 {
-  background-image: url(https://media4.s-nbcnews.com/j/newscms/2016_36/1685951/ss-160826-twip-05_8cf6d4cb83758449fd400c7c3d71aa1f.nbcnews-ux-2880-1000.jpg);
+  background-image: url(https://jacqfrancoisart.github.io/assets/4-bl.jpg);
   min-height: 400px;
 }
 
 .background-image-3 {
-  background-image: url(https://timedotcom.files.wordpress.com/2016/12/gettyimages-489450030.jpg?w=720&quality=85);
+  background-image: url(https://jacqfrancoisart.github.io/assets/6-bl.jpg);
   min-height: 400px;
 }
 
